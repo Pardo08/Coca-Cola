@@ -1,0 +1,64 @@
+/*incorporo reglas fundamentales para hacer web*/
+*{
+    box-sizing: border-box;
+}
+.row{
+    border: 1px black solid;
+}
+.imagen{
+    width: 100%;
+}
+.rojo{
+    color: red;
+}
+.blanco{
+    color: white;
+}
+.caja1{
+    background-color: white;
+}
+.estilo1{
+    height: 200px;
+}
+.caja2{
+    background-color: red;
+}
+.estilo2{
+    height: 200px;
+}          
+.caja3{
+    background-color: white;
+}
+.estilo3{
+    height: 200px;
+}          
+.caja4{
+    background-color: red;
+}
+.estilo4{
+    height: 200px;
+}              
+.caja5{
+    background-color: white;
+}
+.estilo5{
+    height: 200px;
+}           
+.caja6{
+    background-color: white;
+}
+.estilo6{
+    height: 200px;
+}           
+.caja7{
+    background-color: white;
+}
+.estilo7{
+    height: 200px;
+}
+.caja7{
+    background-color: white;
+}
+.estilo7{
+    height: 200px;
+}
